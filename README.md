@@ -1,6 +1,6 @@
 # Phylodynamic estimation of the relative transmission fitness of MDR-TB
 This repository contains the code and metadata associated with the phylodynamic analyses performed in
-Loiseau, Windels et al. "The relative transmission fitness of multidrug-resistant *Mycobacterium tuberculosis* in a drug resistance hotspot". Nature Communications (in press)
+Loiseau, Windels et al. The relative transmission fitness of multidrug-resistant *Mycobacterium tuberculosis* in a drug resistance hotspot. *Nature Communications* 14, 1988 (2023). https://doi.org/10.1038/s41467-023-37719-y
 
 These analyses aimed at estimating the transmission fitness (effective reproductive number and transmission rate) of multidrug-resistant *M. tuberculosis* strains, relative to their drug-susceptible counterparts. Using genome sequences sampled from TB patients in the country of Georgia (2014-2016), we fitted different multitype birth-death models in BEAST2 and inferred transmission trees using TransPhylo in R.
 
